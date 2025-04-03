@@ -1,5 +1,7 @@
 # Innotech Wireframe/slide deck presentation
 
+### [Innotech video presentation](https://drive.google.com/file/d/1xJ-eBQ-BflU42Nf6FxnCwx8z66Aiar5L/view?usp=sharing)
+
 ## Objective
 
 This project aims to design a digital solution to replace the manual data collation process in Nigerian universities. By developing intuitive wireframes and a slide deck presentation, the team proposes a system that enhances efficiency, accuracy, and accessibility in data management. The solution seeks to streamline administrative workflows and reduce errors associated with traditional paper-based methods.
